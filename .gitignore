@@ -1,3 +1,23 @@
+# Python
 __pycache__/
-*.pcap
-*.pcapng
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Project Specifics
+# captures/*.pcapng
+# models/*.pkl
